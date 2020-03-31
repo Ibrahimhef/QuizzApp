@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">QuizzApp</string>
+    <string name="qustion1">What is the size of short variable?</string>
+    <!--  B  -->
+    <string name="q1_c1">A- 8 bit</string>
+    <string name="q1_c2">B- 16 bit</string>
+    <string name="q1_c3">C- 32 bit</string>
+    <string name="q1_c4">D- 64 bit</string>
+    <string name="qustion2">What is the default value of char variable?</string>
+    <!--  A  -->
+    <string name="q2_c1">A - u0000</string>
+    <string name="q2_c2"> B - 0</string>
+    <string name="q2_c3">C - null</string>
+    <string name="q2_c4">D - not defined</string>
+    <string name="qustion3">Method Overloading is an example of</string>
+    <!--  C  -->
+    <string name="q3_c1">A - Static Binding.</string>
+    <string name="q3_c2">B - Dynamic Binding.</string>
+    <string name="q3_c3">C - String</string>
+    <string name="q3_c4">D - None of the above.</string>
+    <string name="qustion4">Which method must be implemented by all threads?</string>
+    <!--  D  -->
+    <string name="q4_c1">A - wait()</string>
+    <string name="q4_c2">B - start()</string>
+    <string name="q4_c3">C - stop()</string>
+    <string name="q4_c4">D - run()</string>
+    <string name="qustion5">Is it necessary that each try block must be followed by a finally block?</string>
+    <!--  B  -->
+    <string name="q5_c1">A - True.</string>
+    <string name="q5_c2">B - False.</string>
+    <string name="qustion6">What happens when threads sleep() method is called?</string>
+    <!--  B  -->
+    <string name="q6_c1">A - Thread returns to the ready state.</string>
+    <string name="q6_c2">B - Thread returns to the waiting state.</string>
+    <string name="q6_c3">C - Thread starts running.</string>
+    <string name="q6_c4">D - None of the above.</string>
+    <string name="qustion7">Java is ....... language</string>
+    <string name="submit">Submit</string>
+    <string name="name">Enter your name</string>
+    <string name="rest">rest</string>
+</resources>
