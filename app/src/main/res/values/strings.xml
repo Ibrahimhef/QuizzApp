@@ -38,4 +38,6 @@
     <string name="submit">Submit</string>
     <string name="name">Enter your name</string>
     <string name="rest">rest</string>
+    <string name="defult">""</string>
+    <string name="write_your_answer">Write your answer</string>
 </resources>

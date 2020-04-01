@@ -33,6 +33,7 @@
             android:background="@color/white">
 
             <RadioGroup
+                android:id="@+id/qustion_group_1"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content">
 
@@ -75,6 +76,7 @@
             android:background="@color/white">
 
             <RadioGroup
+                android:id="@+id/qustion_group_2"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content">
 
@@ -86,7 +88,7 @@
                 <RadioButton
                     android:id="@+id/q2_cho2"
                     style="@style/Radiobutton"
-                    android:layout_toRightOf="@id/q2_cho1"
+                    android:layout_toEndOf="@id/q2_cho1"
                     android:text="@string/q2_c2" />
 
                 <RadioButton
@@ -152,6 +154,7 @@
             android:background="@color/white">
 
             <RadioGroup
+                android:id="@+id/qustion_group_3"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content">
 
@@ -192,6 +195,7 @@
             android:background="@color/white">
 
             <RadioGroup
+                android:id="@+id/qustion_group_4"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content">
 
@@ -219,6 +223,7 @@
             android:background="@color/white">
 
             <RadioGroup
+                android:id="@+id/qustion_group_5"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content">
 
@@ -262,7 +267,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="@color/white"
-                android:hint="Write your answer"
+                android:hint="@string/write_your_answer"
                 android:inputType="text"
                 android:padding="16dp" />
 
@@ -273,7 +278,6 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
-            android:text=""
             android:textColor="@color/white"
             android:textSize="50sp" />
 
